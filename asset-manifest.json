@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/MoiMoi/static/css/main.af840fbd.chunk.css",
+    "main.js": "/MoiMoi/static/js/main.2bcbddb9.chunk.js",
+    "main.js.map": "/MoiMoi/static/js/main.2bcbddb9.chunk.js.map",
+    "runtime-main.js": "/MoiMoi/static/js/runtime-main.4aa64391.js",
+    "runtime-main.js.map": "/MoiMoi/static/js/runtime-main.4aa64391.js.map",
+    "static/js/2.30648d84.chunk.js": "/MoiMoi/static/js/2.30648d84.chunk.js",
+    "static/js/2.30648d84.chunk.js.map": "/MoiMoi/static/js/2.30648d84.chunk.js.map",
+    "index.html": "/MoiMoi/index.html",
+    "static/css/main.af840fbd.chunk.css.map": "/MoiMoi/static/css/main.af840fbd.chunk.css.map",
+    "static/js/2.30648d84.chunk.js.LICENSE.txt": "/MoiMoi/static/js/2.30648d84.chunk.js.LICENSE.txt",
+    "static/media/logo.355735b3.svg": "/MoiMoi/static/media/logo.355735b3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4aa64391.js",
+    "static/js/2.30648d84.chunk.js",
+    "static/css/main.af840fbd.chunk.css",
+    "static/js/main.2bcbddb9.chunk.js"
+  ]
+}
